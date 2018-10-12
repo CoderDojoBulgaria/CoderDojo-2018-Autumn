@@ -23,9 +23,8 @@
 * **JavaScript SPA Introduction** - Exercises - 17 Ноември
 * **NodeJS (Server side) Introduction** - 24 Ноември
 * **NodeJS Introduction - Exercises** - 1 Декември
-```
-Защита на проектите - 8 Декември - Ще се до-уточни
-```
+* **Защита на проектите** - 8 Декември
+
 
 #
 
