@@ -11,6 +11,7 @@
 	* you may find more information in [this link](https://devcenter.heroku.com/articles/app-json-schema)
 * create file "**Procfile**"
 	* type in the file "**web: node app.js**"
+	* you may find more information [here](https://devcenter.heroku.com/articles/procfile)
 * update your listening port in your "**app.js**" file to "**(process.env.PORT || 8080)**"
 
 ### Create a new project
